@@ -1,0 +1,40 @@
+﻿# Node.js
+node_modules/
+.env
+.env.local
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+env/
+Lib/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs and temp
+*.log
+*.tmp
+
+# Compiled
+*.dll
+*.lib
+
+# VSCode or IDE
+.vscode/
+.idea/
+
+# Models & Checkpoints
+*.pt
+*.pth
+*.h5
+
+# Others
+*.bak
+*.csv
+*.sqlite
+*.db
