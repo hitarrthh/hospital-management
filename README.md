@@ -1,3 +1,45 @@
+# 🏥 Seva Hospital Management System
+
+A comprehensive web-based hospital management platform designed to streamline hospital operations, optimize doctor availability, manage patient appointments, and integrate AI-powered support tools for efficient decision-making.
+
+---
+
+## ⚙️ Features
+
+- ✅ Doctor availability tracking and intelligent scheduling  
+- ✅ Patient appointment and resource allocation management  
+- ✅ Real-time AI chatbot assistant (Llama 2 integration)  
+- ✅ Secure billing, mortality, and admission tracking  
+- ✅ Interactive data visualization and reporting  
+- ✅ Dynamic querying with integrated SQL support
+
+---
+
+## 🧠 AI-Powered Chatbot
+
+The **Llama2-Medical-Chatbot** module provides an intelligent assistant trained on medical knowledge, helping users get instant responses to health-related queries.
+
+---
+
+## 🗂 Datasets Included
+
+- `Patient.csv`, `Doctor.csv`, `Appointment.csv`: Core hospital data  
+- `Billing.csv`, `Medical Procedure.csv`: Financial and operational details  
+- `HDHI *.csv`: High-dimensional health index, pollution, and mortality data  
+- `table_headings.csv`: Metadata for table display or validation  
+- `query.sql`: Sample queries for analytics and reporting
+
+---
+
+## 🚀 Getting Started
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/hitarrthh/hospital-management.git
+cd hospital-management
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
